@@ -4,10 +4,11 @@ These are my config files for awesome tiling window manager You can just coppy t
 your window manager
 
 in addition you have to install 
--dmenu 
--nitrogen
--termite
--pcmanfm
+
+- [x] dmenu
+- [x] nitrogen
+- [x] termite
+- [x] pcmanfm
 
 
-##you can install all the above lools with just simple apt-get or pacman
+ ####  you can install all the above lools with just simple apt-get or pacman ####
