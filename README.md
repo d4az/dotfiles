@@ -3,7 +3,7 @@ These are my config files for awesome tiling window manager You can just coppy t
 .config file on the home directory  (~./config) and just do a refresh to awesome and you can see all the new changers to 
 your window manager
 
-in addition you have to install 
+#### in addition you have to install 
 
 - [x] dmenu
 - [x] nitrogen
