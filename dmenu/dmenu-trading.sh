@@ -1,12 +1,4 @@
 #!/bin/bash
-#  ____ _____
-# |  _ \_   _|  Derek Taylor (DistroTube)
-# | | | || |    http://www.youtube.com/c/DistroTube
-# | |_| || |    http://www.gitlab.com/dwt1/
-# |____/ |_|
-#
-# Dmenu script for launching trading programs.
-
 
 declare -a options=("tastyworks
 tastytrade
