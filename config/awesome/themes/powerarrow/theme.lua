@@ -1,7 +1,7 @@
 --[[
 
      Powerarrow Awesome WM theme
-     github.com/lcpz
+
 
 --]]
 
